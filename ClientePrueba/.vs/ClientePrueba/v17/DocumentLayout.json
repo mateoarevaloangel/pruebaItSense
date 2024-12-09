@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\clienteprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:clienteprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\clienteprueba\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62351047-6B99-4619-A868-6B8C248F67A0}|ClientePrueba.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:12:08.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:10:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Component.razor",
+              "RelativeToolTip": "Components\\Pages\\Component.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:11:19.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T12:50:01.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:14:59.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:14:58.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:14:54.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Service\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Service\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:18:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:17:20.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:09:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:15:00.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T14:12:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:09:22.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Service\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Service\\Interface\\IProductService.cs",
+              "RelativeToolTip": "Service\\Interface\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:16:03.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:09:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Model\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Model\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\Model\\ProductDTO.cs",
+              "RelativeToolTip": "Model\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:12:23.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientePrueba.csproj",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\ClientePrueba.csproj",
+              "RelativeDocumentMoniker": "ClientePrueba.csproj",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\ClientePrueba\\ClientePrueba.csproj",
+              "RelativeToolTip": "ClientePrueba.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T21:26:23.145Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

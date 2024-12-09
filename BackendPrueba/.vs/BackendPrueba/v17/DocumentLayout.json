@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\repository\\service\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:repository\\service\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\migrations\\20241207183100_initialcreate5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:migrations\\20241207183100_initialcreate5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|c:\\users\\danie\\onedrive\\documentos\\dev\\github\\pruebaitsense\\backendprueba\\migrations\\20241207014609_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E2BD58-8BF2-45AF-93CA-B026EB028DA9}|BackendPrueba.csproj|solutionrelative:migrations\\20241207014609_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "Models\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:38:52.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADgv2IAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:34:36.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Repository\\Service\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Repository\\Service\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\Service\\ProductRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAjwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:53:50.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:38:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241207183100_InitialCreate5.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Migrations\\20241207183100_InitialCreate5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207183100_InitialCreate5.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Migrations\\20241207183100_InitialCreate5.cs",
+              "RelativeToolTip": "Migrations\\20241207183100_InitialCreate5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:31:00.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Repository\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Repository\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:26:10.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:18:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:52:58.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T22:54:31.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241207014609_InitialCreate3.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Migrations\\20241207014609_InitialCreate3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207014609_InitialCreate3.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\dev\\GitHub\\pruebaItSense\\BackendPrueba\\Migrations\\20241207014609_InitialCreate3.cs",
+              "RelativeToolTip": "Migrations\\20241207014609_InitialCreate3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:46:09.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

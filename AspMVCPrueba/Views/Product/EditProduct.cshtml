@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model AspMVCPrueba.Models.ProductModel
+<h1>editar</h1>
+@Html.ActionLink("Editar", "Edit")
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(p=>p.ProductId)
+    @Html.TextBoxFor(p => p.Name)
+    @Html.TextBoxFor(p => p.Stock)
+    @Html.CheckBoxFor(p => p.Status)
+}
+
+
+
