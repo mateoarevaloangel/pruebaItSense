@@ -1,4 +1,5 @@
 ﻿using BackendPrueba.Models;
+using BackendPrueba.Repository.Service;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendPrueba.Data
@@ -11,6 +12,8 @@ namespace BackendPrueba.Data
         }
 
         public DbSet<Product> Products { get; set; }
-        //public DbSet<Department> Employees { get; set; }
+        public DbSet<Status> Status { get; set; }
+        public DbSet<User> Users { get; set; }
+
     }
 }

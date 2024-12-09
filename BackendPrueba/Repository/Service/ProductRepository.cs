@@ -1,6 +1,7 @@
 ﻿using BackendPrueba.Data;
 using BackendPrueba.Models;
 using BackendPrueba.Repository.Interface;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendPrueba.Repository.Service
@@ -51,6 +52,8 @@ namespace BackendPrueba.Repository.Service
             {
                 result.Name = product.Name;
                 result.Status = product.Status;
+                result.Stock = product.Stock;
+                result.TypeManofacture = product.TypeManofacture;
 
                 await appDbContext.SaveChangesAsync();
 
