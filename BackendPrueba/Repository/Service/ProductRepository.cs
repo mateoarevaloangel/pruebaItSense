@@ -8,12 +8,12 @@ namespace BackendPrueba.Repository.Service
 {
     public class ProductRepository : IProductRepository
     {
-        private readonly AppDbContext appDbContext;
         //constructor del repositorio
         public ProductRepository(AppDbContext appDbContext) 
         {
             this.appDbContext = appDbContext;
-        }
+        }private readonly AppDbContext appDbContext;
+        
         public async Task<Product> AddProduct(Product product)
         {
             var result = await appDbContext.Products.AddAsync(product);

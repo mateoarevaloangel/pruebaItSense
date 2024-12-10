@@ -14,6 +14,7 @@ namespace ClientePruebaIT.Controllers
         {
             var client = new HttpClient();
             var products = await client.GetFromJsonAsync<List<Product>>("https://localhost:7182/api/Products");
+            var statusAll = await client.GetFromJsonAsync<List<Product>>("https://localhost:7182/api/Status");
             return View(products);
         }
 

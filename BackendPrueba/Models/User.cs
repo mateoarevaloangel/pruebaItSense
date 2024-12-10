@@ -1,12 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BackendPrueba.Models
 {
-    public class User
+    public class User : IdentityUser
     {
-        [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
-        public int UserId { get; set; }
-        public string? Name { get; set; }
-        public string? Pasword { get; set; }
+        public string FirstName { get; set; } = default!;
+        public string LastName { get; set; } = default!;
     }
 }
